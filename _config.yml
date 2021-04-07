@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sometimes the reason for something being what it is is deeply hidden from view
+author: Somebody who will remain faceless
+email: rt@cede.earth
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A rather pointless display of basic understanding forged from an exercise in playful funfilled delightful joy oozing from a pustulous greedy need to dominate a single page with forethought and common shared meritocritous values of carefully considered words.
 
+theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: twitterisntforme # DO NOT include the @ character, or else the build will fail!
+github_username:  githubisniceisntit # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
